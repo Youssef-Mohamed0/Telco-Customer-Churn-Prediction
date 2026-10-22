@@ -1,18 +1,3 @@
-إليك اسم المشروع والوصف القصير لقسم (About) على جيت هاب، متبوعاً بملف `README.md` احترافي وشامل للنسخ المباشر.
-
----
-
-### 1. اسم المشروع (Repository Name)
-
-`Telco-Customer-Churn-Prediction`
-
-### 2. الوصف القصير (Repository Description)
-
-> An end-to-end Machine Learning pipeline and Streamlit web app for predicting Telco customer churn, featuring custom feature engineering, handling imbalanced data, and hyperparameter tuning.
-
----
-
-### 3. ملف `README.md` المكتمل (انسخه كما هو)
 
 ```markdown
 # 📊 Telco Customer Churn Prediction Pipeline & Web App
