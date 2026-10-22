@@ -1,5 +1,3 @@
-
-```markdown
 # 📊 Telco Customer Churn Prediction Pipeline & Web App
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
@@ -9,7 +7,6 @@
 
 An end-to-end machine learning project designed to predict customer churn for a telecommunications company. The project addresses data imbalance, handles data leakages via scikit-learn Pipelines, incorporates feature engineering, and compares 6 ML models before deploying the best model through an interactive Streamlit UI.
 
----
 
 ## 📌 Problem Statement & Dataset Overview
 
