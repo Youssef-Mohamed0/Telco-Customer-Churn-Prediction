@@ -94,15 +94,7 @@ Initially, Random Forest performed poorly (F1 = 0.589, Recall = 0.631) despite u
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone [https://github.com/Youssef-Mohamed0/Telco-Customer-Churn-Prediction.git](https://github.com/Youssef-Mohamed0/Telco-Customer-Churn-Prediction.git)
-cd Telco-Customer-Churn-Prediction
-
-```
-
-### 2. Set Up Virtual Environment & Install Dependencies
+### 1. Set Up Virtual Environment & Install Dependencies
 
 ```bash
 python -m venv venv
@@ -115,34 +107,22 @@ pip install -r requirements.txt
 
 ```
 
-### 3. Train Models
+### 2. Train Models
 
 ```bash
 python src/train.py
 
 ```
 
-### 4. Run Streamlit Web Application
+### 3. Run Streamlit Web Application
 
 ```bash
 streamlit run app.py
 
 ```
 
----
-
-## 💡 Key Evaluation Metrics Explained
-
-* **Recall over Accuracy:** In telecommunications churn prediction, a **False Negative** (a churner predicted as staying) results in direct revenue loss. Minimizing False Negatives (maximizing **Recall**) is the primary objective.
-* **F1-Score:** Used as the final optimization metric to maintain a balance between identifying churners (Recall) and avoiding unnecessary promotional spending on loyal customers (Precision).
-* **ROC-AUC (0.845):** Confirms that the model has an 84.5% probability of ranking a random churned customer higher than a random non-churned customer across all decision thresholds.
-
----
 
 ## 👤 Author
 
 * **Youssef Mohamed** - [GitHub](https://www.google.com/search?q=https://github.com/Youssef-Mohamed0) | [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/youssefmohamedegy)
 
-```
-
-```
